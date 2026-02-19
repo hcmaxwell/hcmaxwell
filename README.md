@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Harvey 👋
 
-<!--
-**hcmaxwell/hcmaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning software development, systems, and scientific computing.
 
-Here are some ideas to get you started:
+My goal is to move into a technical career where I can build and understand complex systems — particularly in science, data, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Doing Right Now
+- Learning Python properly
+- Practicing Linux & networking
+- Building small experiments and documenting them
+
+This GitHub acts as a public learning journal rather than a collection of perfect projects.
+
+---
+
+## Current Focus Areas
+- Programming fundamentals
+- Problem solving
+- Understanding how computers actually work
+
+---
+
+## Why So Many Small Commits?
+I try to record progress frequently — even small improvements — because engineering is iterative.
+
+Expect experiments, failures, and gradual improvements.
