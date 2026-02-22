@@ -2,7 +2,7 @@
 
 I'm currently learning software development, systems, and scientific computing.
 
-My goal is to move into a technical career where I can build and understand complex systems — particularly in science, data, and infrastructure.
+My goal is to move into a technical career where I can build and understand complex systems - particularly in science, data, and infrastructure.
 
 ---
 
