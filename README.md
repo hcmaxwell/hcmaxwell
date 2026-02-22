@@ -23,6 +23,6 @@ This GitHub acts as a public learning journal rather than a collection of perfec
 ---
 
 ## Why So Many Small Commits?
-I try to record progress frequently — even small improvements — because engineering is iterative.
+I try to record progress frequently - even small improvements - because engineering is iterative.
 
 Expect experiments, failures, and gradual improvements.
