@@ -1,4 +1,4 @@
-# Hi, I'm Harvey 👋
+# Hi, I'm Harvey
 
 I'm currently learning software development, systems, and scientific computing.
 
